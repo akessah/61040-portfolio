@@ -2,8 +2,7 @@
 This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
 
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+*My name is Akosua Essah, I'm a junior at MIT studing computer science and engineering!
 
 Some fun facts about me:
 1. I love hockey.
