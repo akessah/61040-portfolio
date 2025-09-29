@@ -5,8 +5,8 @@ This will be your portfolio repository. Use this as a [template repository](http
 *My name is Akosua Essah, I'm a junior at MIT studing computer science and engineering!
 
 Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
+1. I run track.
+2. I play the violin.
 3. I have an extra bone in my right foot.
 
 ![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)

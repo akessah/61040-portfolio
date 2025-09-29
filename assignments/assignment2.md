@@ -18,9 +18,9 @@
 - [Whichbook](https://www.whichbook.net/): This is a site that will suggest books based on location, mood, plot points, and similar books. You can't search based on genre and it won't recommend bestsellers at all.
 
 ## Application Pitch ##
-**Book Finder**
+**Codex**
 
-Having trouble finding your next read? Use **Book Finder** to get quality recommendations
+Having trouble finding your next read? Use Codex to get quality recommendations
 
 **Key Features**:
 - Search by Tags: You can add public tags to books you've read and then you can search for books by one or more tags. If you're in the mood for something super specific, this is your opportunity to search through the library of books and filter by as many tags as you want.
